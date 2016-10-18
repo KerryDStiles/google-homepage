@@ -1,0 +1,81 @@
+body {
+	font-family: arial, sans-serif;
+	font-size: small;
+	color: #222;
+}
+
+a{
+	text-decoration: none;
+}
+
+.topBar{
+	/*background-color: gray;*/
+	height: 5em;
+	width:100%;
+}
+
+.topLink{
+	background-color: white;
+	color: black;
+	height: 1.5em;
+	width: auto;
+	float: right;
+	margin-top: 1em;
+	margin-right: 1.5em;
+}
+
+.main{
+	/*background-color: yellow;*/
+	height: 25em;
+	width: 100%;
+	text-align: center;
+}
+
+.namePlate{
+	background-color: white;
+	text-align: center;
+	width: 100%;
+	padding-top: 9.7%;
+}
+
+
+#searchBox{
+	width: 100%;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+#box{
+	width: 40em;
+	height: 2.5em;
+}
+
+#searchButton{
+	margin-top: 1em;
+}
+
+#luckyButton{
+	margin-top: 1em;
+
+}
+
+.bottomBar{
+	background-color: #f2f2f2;
+	height: 3em;
+	width: 100%;
+	margin-top: 15em;
+	float: bottom;
+}
+
+.bottomLinkLeft{
+	float: left;
+	margin-left: 2em;
+	margin-top: 1em;
+
+}
+
+.bottomLinkRight {
+	float: right;
+	margin-right: 2em;
+	margin-top: 1em;
+}
